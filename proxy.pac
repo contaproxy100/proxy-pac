@@ -1,3 +1,4 @@
+
 function FindProxyForURL(url, host) {
-    return "PROXY proxy-intermediario.onrender.com:3128";
+    return "PROXY 154.91.152.38:7777";
 }
